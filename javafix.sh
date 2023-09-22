@@ -61,7 +61,7 @@ else
  echo
  echo
  echo
- termux-open-url https://h4ck3r.me/
+ 
  echo
 
 fi
